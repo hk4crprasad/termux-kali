@@ -336,7 +336,7 @@ function print_banner() {
     printf "${blue}────█░░█░░░░░█░░█────\n"
     printf "${blue}─▄▄──█░░░▀█▀░░░█──▄▄─\n"
     printf "${blue}█░░█─▀▄░░░░░░░▄▀─█░░█\n"
-    printf "${blue}█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█n"
+    printf "${blue}█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█\n"
     printf "${blue}█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█\n"
     printf "${blue}█░░║║║╠─║─║─║║║║║╠─░░█\n"
     printf "${blue}█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█\n"
